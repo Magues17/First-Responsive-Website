@@ -63,8 +63,10 @@ h2 {
 }
 
 .card-block {
-  width: 100%;
+  width: 60%;
   height: 30px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .card-block-left {
   background-color: #33a8dd;

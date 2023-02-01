@@ -68,19 +68,25 @@ h2 {
 }
 .card-block {
     
-  width: 100%;
+  width: 60%;
   height: 30px;
+  margin-left: auto;
+  margin-right: auto;
+ 
   
   // background-color: #d31f1f;
   
   &-left {
     background-color: #33a8dd;
+  
   }
   &-center {
     background-color: #f26208;
+  
   }
   &-right {
     background-color: #00f2e2;
+  
   }
 }
 
